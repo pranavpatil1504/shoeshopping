@@ -1,4 +1,12 @@
 # shoeshopping
+Users Gets to:
+1. Search the Product Name and Price wise.
+2. Filter out the Product Price wise.
+3. Add to cart that selected Product.
+4. Add to Favorites.
+5. See the details of the shoe, can select the size which fits also can change the quantity according to the user requirements.
+6. Buy Now with dummy Billing system (CGST and SGST inclusiion) 
+7. Order deleivery date 
 ![image](https://github.com/pranavpatil637/shoeshopping/assets/114077388/34be62dd-0ff6-4054-9e88-b25d74dcb406)
 ![image](https://github.com/pranavpatil637/shoeshopping/assets/114077388/ceb9f68d-bfe8-48cc-8afa-0c940a9ca708)
 ![image](https://github.com/pranavpatil637/shoeshopping/assets/114077388/e0f3ae66-dec0-4186-be86-02d492f990ce)
